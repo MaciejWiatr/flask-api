@@ -4,8 +4,8 @@
 To activate prepare following info.txt file:<br>
 <ul>
 <li>1st line: your site email</li>
-<li>1st line: password to your site email</li>
-<li>1st line: your buisness email</li>
+<li>2nd line: password to your site email</li>
+<li>3rd line: your buisness email</li>
 </ul>
 
 
